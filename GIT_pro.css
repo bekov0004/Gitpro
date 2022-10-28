@@ -26,8 +26,161 @@
   list-style-type: none;
   color: white;
 }
-.ulflex{
+.ulflex a{
     display: flex;
     align-items: center;
     gap: 10px;
 }
+.ab_navbar_right ul li a{
+     text-decoration: none;
+     color: white;
+}
+
+/* -------------------------------------ab_cont_left_center_right------------------------ */
+.center_ab_cont{
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 700px;
+}
+.ab_cont_left_center_right{
+  width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ab_left{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.ab_flow{
+    writing-mode: vertical-rl;
+    /* transform: rotate(90deg); */
+}
+.ab_instagram{
+    background-color: black;
+    padding: 2px;
+    border-radius: 1px;
+}
+
+/* ----------------ab_hr_hicing--------------- */
+.ab_hr_hicing{
+    display: flex;
+    gap: 20px;
+}
+.ab_hr{
+    margin-top: 12px;
+    width: 71px;
+    height: 3px;
+    border: none;
+    background-color: rgba(193, 140, 16, 1);
+}
+.ab_hicing{
+    font-size: 32px;
+    color: rgba(193, 140, 16, 1);
+    letter-spacing: 6px;
+}
+/* ------------------ */
+.ab_h1_Be{
+    font-size: 57px;
+}
+.ab_Be{
+    width: 600px;
+    margin: 30px 0px;
+
+}
+
+/* ---------------- */
+.ab_skrlo{
+    display: flex;
+    gap: 15px;
+}
+.ab_p_skrlo{
+    font-size: 18px;
+    font-weight: 700;
+}
+/* ------------ab_right------------ */
+.ab_text_dek{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.ab_p_Start{
+    border-right: 3px solid darkgray;
+     padding: 15px 5px;
+}
+.ab_01{
+    border-right: 3px solid darkgray;
+    padding: 15px 5px;
+}
+.ab_02{
+    border-right: 3px solid darkgray;
+    padding: 15px 5px;
+}
+.ab_03{
+    border-right: 3px solid darkgray;
+    padding: 15px 5px;
+}
+
+.ab_p_Start:hover{
+   border-right:  3px solid black;
+}
+.ab_01:hover{
+    border-right:  3px solid black;
+}
+.ab_02:hover{
+    border-right:  3px solid black;
+}
+.ab_03:hover{
+    border-right:  3px solid black;
+}
+
+
+/* -------------------ab_hr_Get_Start--------------- */
+.ab_center_01{
+    display: flex;
+    justify-content: center;
+}
+.ab_main_01{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 85%;
+}
+.ab_hr_Get_Start{
+    display: flex;
+    gap: 20px;
+}
+.ab_left_01{
+    width: 39%;
+}
+.ab_hr_Get{
+    width: 71px;
+    height: 2px;
+    border: none;
+    background-color: rgba(193, 140, 16, 1);
+}
+.ab_get_started{
+    color: rgba(193, 140, 16, 1);
+    font-weight: 800;
+    font-size: 18px;
+}
+.ab_what{
+    font-size: 68px;
+    font-weight: 400; 
+}
+.ab_determinat{
+    text-align: justify;
+ font-size: 14px;
+ font-weight: 400;
+ line-height: 29px;
+}
+
+
+
+
+
+
+
+
