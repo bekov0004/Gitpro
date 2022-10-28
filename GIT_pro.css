@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ab_cont_bgr{
+    background: url(./image/Anushervon/Group\ 18.png);
+    background-size: cover;
+       width: 100%;
+       height: 190vh;
+}
+/* -------------ab_contener_navbar--------- */
+.ab_contener_navbar{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.ab_main_navbar{
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+}
+.ab_navbar_right ul{
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  list-style-type: none;
+  color: white;
+}
+.ulflex{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
