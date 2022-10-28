@@ -151,6 +151,8 @@
 .ab_hr_Get_Start{
     display: flex;
     gap: 20px;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
 .ab_left_01{
     width: 39%;
@@ -166,6 +168,9 @@
     font-weight: 800;
     font-size: 18px;
 }
+.ab_width_p{
+    padding-bottom: 20px;
+}
 .ab_what{
     font-size: 68px;
     font-weight: 400; 
@@ -176,8 +181,20 @@
  font-weight: 400;
  line-height: 29px;
 }
-
-
+.ab_read_icon{
+    display: flex;
+    gap: 20px;
+}
+.read_more{
+  font-size: 22px;
+  font-weight: 400;
+  color: rgba(193, 140, 16, 1);
+}
+.ab_icon_right{
+    font-size: 30px;
+    font-weight: 100;
+    color: rgba(193, 140, 16, 1);
+}
 
 
 
